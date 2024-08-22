@@ -2,12 +2,6 @@
 
 # Chat Application
 
-**Client Interface**
-
-![Client Interface](images/client.png)
-
-
-
 This project implements a basic chat application with server and client components. Users can exchange text messages and share files. The application demonstrates socket programming, multithreading, and includes a simple graphical user interface (GUI).
 
 ## Project Overview
