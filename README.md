@@ -2,6 +2,8 @@
 
 # Chat Application
 
+**Client Interface**
+
 ![Client Interface](images/client.png)
 
 
