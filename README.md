@@ -4,7 +4,7 @@
 
 **Client Interface**
 
-![Client Interface](images/client.png)
+[Client Interface](images/client.png)
 
 
 
